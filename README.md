@@ -1,7 +1,6 @@
 # Titanic-Survival-Prediction
-
-🚢 Titanic Survival Prediction using Logistic Regression
-📌 Project Overview
+**
+📌 Project Overview**
 
 Titanic Survival Prediction is a machine learning–based classification project that predicts whether a passenger survived the Titanic disaster based on key personal and travel-related features such as age, gender, passenger class, fare, and family details.
 
@@ -9,7 +8,7 @@ This project uses Logistic Regression, a simple yet powerful classification algo
 
 The project is beginner-friendly and focuses on building an interpretable model while understanding real-world data challenges.
 
-🚀 Features
+**🚀 Features**
 
 ✅ Predicts passenger survival (Binary Classification: Survived / Not Survived)
 
