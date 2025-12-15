@@ -1,6 +1,6 @@
 # Titanic-Survival-Prediction
-**
-📌 Project Overview**
+
+**📌 Project Overview**
 
 Titanic Survival Prediction is a machine learning–based classification project that predicts whether a passenger survived the Titanic disaster based on key personal and travel-related features such as age, gender, passenger class, fare, and family details.
 
